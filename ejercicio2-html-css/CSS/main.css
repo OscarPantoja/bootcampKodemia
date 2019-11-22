@@ -1,0 +1,48 @@
+*{
+    font-family: arial;
+}
+
+.borde{
+    border: 2px solid red;
+    background: linear-gradient(to bottom, rgb(59, 57, 57), grey);
+    text-align: center;
+    padding: 10px;
+    
+}
+
+#main-header{
+    background: linear-gradient(to bottom, blue, darkblue);
+    font-size: 24px;       
+}
+
+#main-section{
+    background: linear-gradient(to bottom, orange, yellow);
+    width: 800px;
+    float: left;
+}
+
+#main-heading{
+    border: 1px solid black;
+    background: linear-gradient(to bottom, pink, red);
+    padding: 22px;
+    margin: 5px, 1px, 1px;
+
+}
+
+#main-article{
+    border: 1px solid black;
+    margin: 1px;
+    background: linear-gradient(to bottom, rgb(59, 57, 57), grey);
+    padding: 22px;
+
+}
+
+#main-aside{
+    height: 197px;
+     
+
+#main-float{
+  position: relative;
+  top: 0px;
+  
+}
